@@ -22,5 +22,13 @@ Will be using basic CSS to create responsive layouts.
 
 [7 Habits of  Highly Effective Media Queries](http://bradfrost.com/blog/post/7-habits-of-highly-effective-media-queries/)
 
-## Responsive Design Patterns
--
+## Flexbox
+*Flexbox only works in IE 10 or later*
+
+-[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+-"Flex Container" holds "Flex Items" and this allows for simple responsive design.
+-Not a single property but a collection.
+ ```
+ display: Flex;
+ ```
+ 
