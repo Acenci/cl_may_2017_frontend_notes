@@ -1,6 +1,7 @@
 # Ajax Notes
 -Ajax is faster, because it lets your build webpages by brining in data and using JavaScript to build the page quickly.
 -There is a request and a response. (xmlhttp requests)
+-Lets see if we can make this happen
 
 ## How Ajax Works
 -The process of using JS to send a request to a server.
